@@ -22,7 +22,7 @@ Nosso App Python rodando no Teminal Power Shell
 
 <img style="margin: 0px" src="https://raw.githubusercontent.com/jpqateste/desafio_m4_ijj/main/Screen_power_shell01.jpg" alt="Tela Power shell" title="Power shell" />
 
-
+Json submetidos na requisição POST.
 ```
 {
    "title":"Capitães de Areia",
