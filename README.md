@@ -10,3 +10,9 @@ Título, Autor, Gênero e Edição.
 
 Faça requisições GET em todos os livros e veja se os cadastrados por você estão disponíveis.
 
+# Nossa Solução
+
+<img style="margin: 0px" src="https://raw.githubusercontent.com/jpqateste/desafio_m4_ijj/main/Screen_replit.jpg" alt="Tel Ripleit" title="Ripleit" />
+
+
+
