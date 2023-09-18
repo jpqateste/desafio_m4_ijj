@@ -12,7 +12,13 @@ Faça requisições GET em todos os livros e veja se os cadastrados por você es
 
 # Nossa Solução
 
-<img style="margin: 0px" src="https://raw.githubusercontent.com/jpqateste/desafio_m4_ijj/main/Screen_replit.jpg" alt="Tel Ripleit" title="Ripleit" />
+Nosso App Python rodando no Teminal online Replit
 
+https://replit.com/join/hpjxyhnoyr-joao-paulopa412
 
+<img style="margin: 0px" src="https://raw.githubusercontent.com/jpqateste/desafio_m4_ijj/main/Screen_replit.jpg" alt="Tela Ripleit" title="Ripleit" />
+
+Nosso App Python rodando no Teminal Power Shell
+
+<img style="margin: 0px" src="https://raw.githubusercontent.com/jpqateste/desafio_m4_ijj/main/Screen_power_shell01.jpg" alt="Tela Power shell" title="Power shell" />
 
