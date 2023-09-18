@@ -49,3 +49,6 @@ Nosso App Python rodando no Teminal Power Shell
    "gender":25
 }
 ```
+Resultado da consulta
+
+<img style="margin: 0px" src="https://raw.githubusercontent.com/jpqateste/desafio_m4_ijj/main/Screen_power_shell04.jpg" alt="Tela resultado" title="Tela resultado" />
