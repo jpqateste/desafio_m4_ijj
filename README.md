@@ -1,5 +1,5 @@
-# desafio_m4_ijj
-Projeto Final do M4 do Curso de QA IJJ.
+# Projeto Final do M4 do Curso de QA IJJ.
+
 
 Sim, ela voltou! Aquela que é a mais temida: atividade de requisição em APIs!!
 
